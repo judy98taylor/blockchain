@@ -3,6 +3,10 @@ blockchain
 
 # wiki
 
+区块链入门教程
+http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html
+
+
 Truffle - 以太坊Solidity编程语言开发框架
 http://truffle.tryblockchain.org/index.html
 
